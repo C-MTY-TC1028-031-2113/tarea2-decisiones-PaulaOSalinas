@@ -15,7 +15,7 @@ def main():
         print("SOBREPESO")
     elif (30 <= indice < 40):
         print("OBESIDAD")
-    elif (i0ndice >= 40):
+    elif (indice >= 40):
         print("OBESIDAD MORBIDA")
 
 if __name__=='__main__':
